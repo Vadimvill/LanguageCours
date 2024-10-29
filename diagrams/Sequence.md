@@ -16,4 +16,4 @@
   
 ### 3. Запись на курс<a name="3"></a>
 
-![Запись на курс](images/followCourceActivityDiagram.png)
+![Запись на курс](images/followCourceDiagram.png)
